@@ -9,8 +9,7 @@ profile:
   align: right
   image: temp_photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><a href="/assets/pdf/example_pdf.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">My Resume</a></p>
+
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
