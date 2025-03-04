@@ -29,6 +29,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Hello! I'm Hung Pham, a CS undergraduate student at George Mason University. I'm an aspiring undergraduate researcher interested in the intersection of Security and Machine Learning systems. --Work experience--. 
+
+
+
 Coming Soon!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
