@@ -30,10 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-the-website-is-now-live-tada-tada-tada",
+        },{id: "post-a-post-with-images",
+      
+        title: "a post with images",
+      
+      description: "this is what included images could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/images/";
+        
+      },
+    },{id: "news-the-website-is-now-live-tada-tada-tada",
           title: 'The website is now live! :tada: :tada: :tada:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-placeholder-project",
+          title: 'Placeholder Project',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
