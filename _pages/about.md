@@ -29,9 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Hung Pham, a CS undergraduate student at George Mason University. I'm an aspiring undergraduate researcher interested in the intersection of Security and Machine Learning systems. --Work experience--. 
-
-
+Hello! I'm Hung Pham, a CS undergraduate student at George Mason University. I'm an aspiring undergraduate researcher interested in the intersection of Security and Machine Learning systems. --Work experience--.
 
 Coming Soon!
 
