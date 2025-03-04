@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-post-with-table-of-contents",
+        },{id: "post-a-mandatory-hello-world-post",
+      
+        title: "a mandatory hello world post",
+      
+      description: "what&#39;s a blog without a hello world post?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/hello-world/";
+        
+      },
+    },{id: "post-a-post-with-table-of-contents",
       
         title: "a post with table of contents",
       
