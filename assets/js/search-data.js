@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-a-post-with-table-of-contents",
+      
+        title: "a post with table of contents",
+      
+      description: "an example of a blog post with table of contents",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/table-of-contents/";
+        
+      },
+    },{id: "post-a-post-with-images",
       
         title: "a post with images",
       
