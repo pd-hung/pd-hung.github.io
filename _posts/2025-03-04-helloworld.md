@@ -1,11 +1,11 @@
 ---
 layout: post
 title: a mandatory hello world post
-date: 2025-03-14 13:027:00
+date: 2025-03-14 13:27:00
 description: what's a blog without a hello world post?
 tags: formatting images
 categories: thoughts
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/7.jpg
 ---
 
 Hello World!
