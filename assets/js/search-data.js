@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-mandatory-hello-world-post",
+        },{id: "post-a-mandatory-hello-world",
       
-        title: "a mandatory hello world post",
+        title: "a mandatory hello world",
       
       description: "what&#39;s a blog without a hello world post?",
       section: "Posts",
