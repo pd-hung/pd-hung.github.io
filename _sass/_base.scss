@@ -547,14 +547,24 @@ footer.sticky-bottom {
 // Blog
 
 .header-bar {
-  border-bottom: 1px solid var(--global-divider-color);
-  text-align: center;
-  padding-top: 2rem;
-  padding-bottom: 3rem;
-
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+    
+    &::after {
+      content: '...';
+      animation: blink 1.5s infinite;
+      opacity: 1;
+    }
+  }
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
   }
 }
 
