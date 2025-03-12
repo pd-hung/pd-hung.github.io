@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A collection of in progress and completed projects.",
+          description: "A collection of in progress and completed projects. (In progress)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -32,46 +32,19 @@ ninja.data = [{
           },
         },{id: "post-a-mandatory-hello-world",
       
-        title: "a mandatory hello world",
+        title: "A Mandatory Hello World",
       
-      description: "what&#39;s a blog without a hello world post?",
+      description: "What&#39;s a blog without a Hello World post?",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/hello-world/";
         
       },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
     },{id: "news-the-website-is-now-live-tada-tada-tada",
           title: 'The website is now live! :tada: :tada: :tada:',
           description: "",
-          section: "News",},{id: "projects-placeholder-project",
-          title: 'Placeholder Project',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
