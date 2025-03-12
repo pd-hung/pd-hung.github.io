@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of in progress and completed projects.
+description: A collection of in progress and completed projects. (In progress)
 nav: true
 nav_order: 2
 display_categories: [work, fun]
