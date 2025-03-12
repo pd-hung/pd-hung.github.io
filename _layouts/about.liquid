@@ -11,9 +11,7 @@ layout: default
           </span>
         -->
         {{ site.first_name }}
-        <!--
-        {{ site.middle_name }}
-        -->
+        <!-- {{ site.middle_name }} -->
         {{ site.last_name }}
       {% else %}
         {{ site.title }}
@@ -44,7 +42,9 @@ layout: default
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
         <div style="text-align: center; margin-top: 10px;">
-          <a href="{{ '/assets/pdf/2025_Hung_s_Resume-7.pdf' | relative_url }}" target="_blank" style="text-decoration: none; font-weight: bold;">My Resume</a>
+          <a href="{{ '/assets/pdf/2025_Hung_s_Resume-7.pdf' | relative_url }}" target="_blank" style="text-decoration: none; font-weight: bold;"
+            >My Resume</a
+          >
         </div>
       </div>
       </div>
