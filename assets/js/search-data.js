@@ -44,6 +44,9 @@ ninja.data = [{
     },{id: "news-the-website-is-now-live-tada-tada-tada",
           title: 'The website is now live! :tada: :tada: :tada:',
           description: "",
+          section: "News",},{id: "news-graduated-with-a-bachelor-of-science-in-computer-science-from-george-mason-university-ready-for-what-comes-next",
+          title: 'Graduated with a Bachelor of Science in Computer Science from George Mason University,...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
