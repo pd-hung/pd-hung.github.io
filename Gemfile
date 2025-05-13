@@ -2,6 +2,10 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 
+# Fix bug
+gem 'logger'
+gem 'observer'
+
 gem 'execjs'
 gem 'mini_racer'
 

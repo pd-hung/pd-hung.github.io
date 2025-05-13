@@ -290,6 +290,7 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  logger
   mini_racer
   observer
   ostruct
