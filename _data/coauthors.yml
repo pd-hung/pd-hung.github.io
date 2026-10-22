@@ -32,3 +32,15 @@
 # "planck":
 #   - firstname: ["Max"]
 #     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"paudel":
+  - firstname: ["Abhishek", "A."]
+    url: https://abpaudel.com/
+
+"stein":
+  - firstname: ["Gregory", "Gregory J.", "G.", "G. J.", "GJ"]
+    url: https://gjstein.com/
+
+"zhang":
+  - firstname: ["Xiaokuan", "X."]
+    url: https://mainarke.github.io/

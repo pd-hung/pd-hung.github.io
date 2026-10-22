@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: CS Undegraduate Student @ George Mason University
+subtitle: CS PhD Student, George Mason University
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -29,11 +29,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Hung Pham, a CS undergraduate student at George Mason University. I'm an aspiring undergraduate researcher interested in the intersection of Machine Learning System and Security. Recently, I've been diving into the security leakage in large language models (LLMs). I'm focused on finding vulnerabilities in LLMs optimization method such as KV caching, pruning, and speculative decoding that could increase the risk of leaking sensitive data.
+I am a PhD student in Computer Science at [George Mason University](https://www.gmu.edu), advised by [Prof. Xiaokuan Zhang](https://mainarke.github.io/) in the SECSAT Lab.
 
-I've had the opportunity work as an undergraduate research assistant at the Security of Emerging Computer System And Technologies Lab (SECSAT), under the mentorship of [Dr. Xiaokuan Zhang](https://mainarke.github.io/) and PhD student Vishnu Teja Kandalam. My research focuses on identifying security risk cause by LLM optimization techniques, and I am on the path of writing a first author research paper.
+My research is at the intersection of security and systems, with a focus on the software that AI systems run on. I currently build tools for understanding and analyzing GPU programs, with the goal of detecting security bugs in GPU kernels.
 
-I've also been engaged in the [Robotic Anticipatory Intelligence and Learning Group (RAIL)](https://cs.gmu.edu/~gjstein/people/), working under [Dr. Gregory Stein](https://gjstein.com/) and PhD student [Abhishek Paudel](https://abpaudel.com/), where I focus in the machine learning aspect of robotics. My work in the lab involves integrating learning planner into LoCoBot hardware to test navigation in an unknown indoor environment. This work has allowed me developed a better grasp on machine learning system.
+Previously, I worked on evaluating large language models for software vulnerability assessment. I received my B.S. in Computer Science from George Mason University in 2025, where I also worked with [Prof. Gregory J. Stein](http://gjstein.com/) in the RAIL Group on learning-informed robot planning.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -4,7 +4,7 @@ title: A Mandatory Hello World
 date: 2025-03-04 13:00:00
 description: What's a blog without a Hello World post?
 categories: thoughts
-giscus_comments: true
+giscus_comments: false
 ---
 
 ### Hello World!

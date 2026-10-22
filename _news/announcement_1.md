@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-04 00:00:00-0400
+date: 2025-03-04 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-The website is now live! :tada: :tada: :tada:
+Launched my personal website.
