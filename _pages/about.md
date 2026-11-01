@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: CS PhD Student, George Mason University
+#subtitle: CS PhD Student, George Mason University
 
 profile:
   align: right
